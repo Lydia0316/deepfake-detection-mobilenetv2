@@ -19,3 +19,10 @@ This project uses MobileNetV2 to detect deepfake images by classifying them as r
 ```bash
 pip install -r requirements.txt
 python train_cnn.py
+## Output Samples
+
+### Predictions
+![Predictions](Predictions .png)
+
+### Confusion Matrix
+![Confusion Matrix](Confusion_Matrix.png)
