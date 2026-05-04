@@ -1,5 +1,3 @@
-# Deepfake-Detection-Project
-Deep learning-based deepfake detection using MobileNetV2 for real vs fake image classification.
 # Deepfake Detection using Deep Learning
 
 ## Project Description
