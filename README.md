@@ -1,7 +1,10 @@
-# Deepfake Detection using Deep Learning
+# Deepfake Detection using MobileNetV2
 
 ## Project Description
 This project uses MobileNetV2 to detect deepfake images by classifying them as real or fake. Video frames are extracted using OpenCV and processed through preprocessing steps like resizing and normalization before training the model.
+
+## Dataset
+FaceForensics++ dataset was used for training and evaluation.
 
 ## Methodology
 - Frame extraction from videos using OpenCV  
@@ -13,7 +16,7 @@ This project uses MobileNetV2 to detect deepfake images by classifying them as r
 - Achieved accuracy of 88–89%  
 - Model performs well on the given dataset  
 
-## How to Run
+## Installation and Execution
 ```bash
 pip install -r requirements.txt
 python train_cnn.py
