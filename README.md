@@ -20,10 +20,11 @@ FaceForensics++ dataset was used for training and evaluation.
 ```bash
 pip install -r requirements.txt
 python train_cnn.py
+```
 ## Output Samples
 
 ### Predictions
-![Predictions](Predictions .png)
+![Predictions](predictions.png)
 
 ### Confusion Matrix
-![Confusion Matrix](Confusion_Matrix.png)
+![Confusion Matrix](confusion_matrix.png)
