@@ -25,6 +25,7 @@ python train_cnn.py
 
 ### Predictions
 ![Predictions](predictions.png)
-
+- Example predictions showing real vs fake classification
+  
 ### Confusion Matrix
 ![Confusion Matrix](confusion_matrix.png)
